@@ -1,0 +1,22 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Machine learning model artifacts
+*.pkl
+*.joblib
+
+# Dataset / Data
+dataset.csv
+*.csv
+
+# Environment / IDEs
+.env
+.venv
+venv/
+.vscode/
+.idea/
+.DS_Store
+
+# Streamlit logs/cache
+.streamlit/

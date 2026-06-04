@@ -1,0 +1,18 @@
+# Data handling & Math
+numpy==2.4.4
+pandas==3.0.2
+scipy==1.17.1
+
+# ML & Modelling
+scikit-learn==1.8.0
+joblib==1.5.3
+
+# URL Processing
+tldextract==5.3.1
+
+# UI
+streamlit==1.56.0
+
+# Optional (keep these only if you use XGBoost/LightGBM)
+# xgboost
+# lightgbm
