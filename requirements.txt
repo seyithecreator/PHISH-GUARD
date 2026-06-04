@@ -16,3 +16,7 @@ streamlit==1.56.0
 # Optional (keep these only if you use XGBoost/LightGBM)
 # xgboost
 # lightgbm
+
+# For Deployment 
+flask
+gunicorn
